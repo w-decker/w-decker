@@ -2,5 +2,4 @@ Hello
 
 My name is Will Decker. I am an undergraduate student researcher.
 
-My research interests cover a large spectrum within the fields of psychology, neuropsychology, neuroscience, and data science. I am primarily interested in using a multimodal neuroimaging approach to investigate brain structure and brain function and how both influence cognition, neuropathology, and behavior. I am further interested in how statistics and machine learning approaches can be used to enhance and optimize our understanding of cognition, neuropathology, and behavior. I also have a serious interest in neuroimaging, programming, “big data”, neuromodulation/neurostimulation, and biomarkers.
-
+My research interests cover a large spectrum within the fields of psychology, neuroscience and data science. I am primarily interested in neuroimaging techniques (MRI, EEG, MEG, etc.) and their respective analyses. I am also intrigued by how the brain can be broken down computationally and how this understanding influences neuroimaging analyses. Other topics that I am passionate about are statistics, the structure-function relationship, open science, and coding. 
