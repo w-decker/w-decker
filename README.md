@@ -1,5 +1,3 @@
-:brain:
-
 Hello!
 
 My name is Will Decker. I am an undergraduate student researcher.
