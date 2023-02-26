@@ -8,4 +8,4 @@ If you are interested in learning more about me, please check out my website [he
 
 :brain:
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-decker)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-decker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-decker&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-decker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
