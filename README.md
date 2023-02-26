@@ -1,3 +1,12 @@
+<head>
+  <style>
+    body {
+      background-color: rgba(173, 216, 230, 0.5);
+    }
+  </style>
+</head>
+
+
 Hello!
 
 My name is Will Decker. I am an undergraduate student researcher.
