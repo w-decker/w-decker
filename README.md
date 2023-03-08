@@ -8,4 +8,4 @@ If you are interested in learning more about me, please check out my website [he
 
 :brain:
 
-![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-decker&show_icons=true&theme=radical)
+![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=w-decker&show_icons=true&theme=dark)
