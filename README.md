@@ -1,9 +1,1 @@
-Hi!
-
-My name is Will Decker. I am an undergraduate student researcher.
-
-I am interested in language, neuroimaging methodologies, statistics and open science.
-
-If you are interested in learning more about me, please check out my website [here](https://www.jwilldecker.com)!
-
-:brain:
+<img src="https://static.wixstatic.com/media/14ddde_c1b13e7aa0f24513ab704758adb8bd4c~mv2.png" alt="alt text" width="500" height="500">
